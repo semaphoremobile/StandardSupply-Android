@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="@color/light_gray"
+    android:orientation="horizontal" >
+   
+    <ImageView android:src="@drawable/truck_icn"
+        android:layout_marginLeft="62dp"
+        android:contentDescription="@string/no_item_image"
+        android:layout_width="32dp"
+        android:layout_height="32dp"/>
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/txtTruckNo"
+        android:textColor="@color/ss_green"
+        android:layout_gravity="center_vertical"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/white"
+    android:padding="10dp">
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/url_my_link_drive"
+        android:autoLink="web"
+        android:textSize="18sp"/>
+    
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/url_ssdhvac"
+        android:autoLink="web"
+        android:textSize="18sp"/>
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/url_goodmanmfg"
+        android:autoLink="web"
+        android:textSize="18sp"/>
+    
+
+</LinearLayout>

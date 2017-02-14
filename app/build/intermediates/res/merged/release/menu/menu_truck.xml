@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+        <item android:id="@+id/action_trucks"
+          android:icon="@drawable/truck_btn"
+          android:title="@string/truck_id"
+          android:showAsAction="always" />
+
+</menu>

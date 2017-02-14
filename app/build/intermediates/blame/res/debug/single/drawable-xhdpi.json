@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ads_img.png",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\ads_img.png"
+    },
+    {
+        "merged": "F:\\RAMYA_BACKUP\\Ramya\\StandardSupply\\develop\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\RAMYA_BACKUP\\Ramya\\StandardSupply\\develop\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\RAMYA_BACKUP\\Ramya\\StandardSupply\\develop\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "F:\\RAMYA_BACKUP\\Ramya\\StandardSupply\\develop\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_selector_background_selected.9.png",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "F:\\RAMYA_BACKUP\\Ramya\\StandardSupply\\develop\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_selector_background_selected.9.png",
+        "source": "F:\\RAMYA_BACKUP\\Ramya\\StandardSupply\\develop\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="drawer_titles">
+        <item>Home</item>
+        <item>Search</item>
+        <item>Scan</item>
+        <item>Favorites</item>
+        <item>Cart</item>
+        <item>My Order</item>
+    </string-array>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="medium_gray">#BBBBBB</color>
+    <color name="ss_green">#009E0F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="zxing_possible_result_points">#c0ffbd21</color>
+    <color name="zxing_result_view">#b0000000</color>
+    <color name="zxing_status_text">#ffffffff</color>
+    <color name="zxing_transparent">#00000000</color>
+    <color name="zxing_viewfinder_laser">#ffcc0000</color>
+    <color name="zxing_viewfinder_mask">#60000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="zxing_back_button" type="id"/>
+    <item name="zxing_camera_error" type="id"/>
+    <item name="zxing_decode" type="id"/>
+    <item name="zxing_decode_failed" type="id"/>
+    <item name="zxing_decode_succeeded" type="id"/>
+    <item name="zxing_possible_result_points" type="id"/>
+    <item name="zxing_prewiew_size_ready" type="id"/>
+    <integer name="google_play_services_version">5089000</integer>
+    <string name="add_additional_item">Add Additional Items</string>
+    <string name="add_address">Add Address</string>
+    <string name="add_items">Add Items</string>
+    <string name="add_new_address">Add a new address</string>
+    <string name="add_new_jobNo">Add a new job number</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="add_truck">Add Truck</string>
+    <string name="address">Address</string>
+    <string name="app_name">StandardSupply</string>
+    <string name="cancel">Cancel</string>
+    <string name="cart">Cart</string>
+    <string name="change">Change</string>
+    <string name="change_password">Change Password</string>
+    <string name="choose_address">Please choose an address:</string>
+    <string name="choose_your_branch">CHOOSE YOUR BRANCH</string>
+    <string name="city">City</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">aff32f10-7292-46d8-9131-6249ceaf6c46</string>
+    <string name="company_name">Company Name</string>
+    <string name="contact_info">Contact info is required so we may contact you regarding your request.</string>
+    <string name="current_password">Current Password</string>
+    <string name="customer_id">Customer Id</string>
+    <string name="customer_id_hint">Customer Id: Numerical 6 digits only</string>
+    <string name="delivery">DELIVERY</string>
+    <string name="delivery_address">Delivery Address:</string>
+    <string name="done">Done</string>
+    <string name="done_button">Done</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Email</string>
+    <string name="email_type">ex: myname@example.com</string>
+    <string name="enter_order_notes">Enter Order Notes</string>
+    <string name="enter_po">ENTER PO NUMBER: (REQD.)</string>
+    <string name="favorites">Favorites</string>
+    <string name="first_name">First Name</string>
+    <string name="forgot_password_button_string">Forgot Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="ga_trackingId">UA-48649807-1</string>
+    <string name="getImage_button">Get Image</string>
+    <string name="guidance_string">Try moving the camera close to each part of the barcode</string>
+    <string name="help">Help</string>
+    <string name="home_tab">Home</string>
+    <string name="job_no">Enter Job No</string>
+    <string name="last_name">Last Name</string>
+    <string name="light">Light</string>
+    <string name="location">Location</string>
+    <string name="login_button_string">Log In</string>
+    <string name="logo_img_description">Standard Supply Logo</string>
+    <string name="logout">Log out</string>
+    <string name="my_orders">My Orders</string>
+    <string name="name">Name</string>
+    <string name="new_password">New Password</string>
+    <string name="next">Next</string>
+    <string name="no_item_image">No Item Image</string>
+    <string name="notifications">notifications</string>
+    <string name="order">Order</string>
+    <string name="part_desc">Part Number(s) or Description(s)</string>
+    <string name="password">Password: 8 characters minimum</string>
+    <string name="password_hint">Password</string>
+    <string name="pick_up_now">Pick up this item now</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="please_choose">PLEASE CHOOSE:</string>
+    <string name="po">PO Number:</string>
+    <string name="po_no">Enter PO No</string>
+    <string name="profile">Profile</string>
+    <string name="reconfirm_password">Confirm New Password</string>
+    <string name="reset_button_string">Reset</string>
+    <string name="restore">Restore</string>
+    <string name="save">Save</string>
+    <string name="scan">Scan</string>
+    <string name="search">Search</string>
+    <string name="search_category">Search…</string>
+    <string name="sign_up_button_string">Sign Up</string>
+    <string name="state">State</string>
+    <string name="submit">Submit</string>
+    <string name="tab_to_add_order_notes">Tap to add order notes</string>
+    <string name="truck_id">Truck Id</string>
+    <string name="truck_name">Truck Name</string>
+    <string name="truck_no">Truck No:</string>
+    <string name="url_goodmanmfg">http://mobile.goodmanmfg.com</string>
+    <string name="url_my_link_drive">http://www.mylinkdrive.com/</string>
+    <string name="url_ssdhvac">http://www.ssdhvac.com/</string>
+    <string name="will_call">WILL CALL</string>
+    <string name="zip">Zip</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/ss_green</item>
+        <item name="android:backgroundStacked">@color/white</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitleText</item>
+    </style>
+    <style name="MyActionBarTitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="SSActionBarTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+    <style name="zxing_CaptureTheme" parent="android:Theme.Black.NoTitleBar.Fullscreen">
+  </style>
+</resources>

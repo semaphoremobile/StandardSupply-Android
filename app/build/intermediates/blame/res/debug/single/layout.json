@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_order_no.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_order_no.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_enter_quantity.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_enter_quantity.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_help_item.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_help_item.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_items_cat.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_list_items_cat.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_catagories_list_items.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_catagories_list_items.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_adv.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_adv.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_change_password.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_address.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_item.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.1\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_job.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_job.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_address.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_address.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_address.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_new_address.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_shopping_item.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_shopping_item.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_address_selector.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_truck.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_truck.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_address.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_list_address.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_notif_message.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_notif_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_enter_quantity.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_enter_quantity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scan_history.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_scan_history.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_shopping_item.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_shopping_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_change_truck.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_change_truck.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fade_in.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_po.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_po.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickup_item_lst.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\pickup_item_lst.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickup_item_lst.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\pickup_item_lst.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_location.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_location.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_cart_item.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_cart_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prep_cart.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_prep_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_log.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\send_log.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_submit_cart.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_submit_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickup_item_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\pickup_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_job.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_job.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_orders.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_submit_cart.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_submit_cart.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_address_selected.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_address_selected.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_detail.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fade_in.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_po.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_po.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_change_truck.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_change_truck.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.1\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_categories.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_truck_selected.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_truck_selected.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fade_out.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_items.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_list_items.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_category.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_category.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fade_out.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_orders.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickup_item_detail.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\pickup_item_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_truck_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_truck_selected.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.1\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_to_order.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_add_to_order.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_change_password.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_help_item.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_help_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_log.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\send_log.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.1\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_address_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_address_selected.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_category.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_category.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scan_history.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_scan_history.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_address.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_new_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_location.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_location.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_prep_cart.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_prep_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_notif_message.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_notif_message.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_order_no.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_order_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_to_order.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_add_to_order.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_item.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_truck.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_truck.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_catagories_list_items.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_catagories_list_items.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_cart_item.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_cart_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_truck.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_add_truck.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favorites.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favorites.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_truck.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_add_truck.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_items_cat.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_list_items_cat.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address_selector.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_address_selector.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category_detail.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_category_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_category_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_adv.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\fragment_adv.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_categories.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_items.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\layout\\fragment_list_items.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_address.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\layout\\row_list_address.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_item_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_order.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_truck.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_truck.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_help.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_help.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_detail.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_done.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_done.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cart.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_cart.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_order.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_order.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_submit.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_submit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_submit.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_submit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_done.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_done.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_next.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cart.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_cart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_help.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_help.xml"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_truck.xml",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\menu\\menu_truck.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_next.xml",
+        "source": "D:\\AndroidStudioProjects\\SMT-Android-master\\app\\src\\main\\res\\menu\\menu_next.xml"
+    }
+]

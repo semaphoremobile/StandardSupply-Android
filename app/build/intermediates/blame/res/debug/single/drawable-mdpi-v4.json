@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\number_bg.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\number_bg.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cart_tab.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\cart_tab.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star_icn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\star_icn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notifications.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\notifications.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\next_icn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\next_icn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_tab_pressed.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\search_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\favorites_tab.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\favorites_tab.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\no_item_image.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\no_item_image.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\splash.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\truck_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\truck_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cart_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\cart_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\search_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home_tab_pressed.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\home_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ss_large_logo.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\ss_large_logo.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_icn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\add_icn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\more_tab.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\more_tab.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scan_tab_pressed.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\scan_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home_tab.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\home_tab.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\profile.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\favorites_tab_pressed.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\favorites_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\profile_img.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\profile_img.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector_background_selected.9.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon128.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\icon128.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\favorites_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\favorites_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star_icn_active.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\star_icn_active.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_item.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\add_item.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scan_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\scan_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scan_tab.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\scan_tab.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\add_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cart_tab_pressed.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\cart_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_tab.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\search_tab.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ads_img.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\ads_img.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\more_tab_pressed.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\more_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\check_icn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\check_icn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dropdown_btn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\dropdown_btn.png"
+    },
+    {
+        "merged": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\truck_icn.png",
+        "source": "D:\\Esakki\\Salestrack\\Develop\\StandardSupply4\\app\\src\\main\\res\\drawable-mdpi\\truck_icn.png"
+    }
+]

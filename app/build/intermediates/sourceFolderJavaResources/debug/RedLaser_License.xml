@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>-NOTICE-</key>
+	<string>THIS FILE IS DIGITALLY SIGNED. DO NOT MODIFY.</string>
+	<key>Company Name</key>
+	<string>Standard Supply</string>
+	<key>iOS</key>
+	<dict>
+		<key>App Bundle IDs</key>
+		<array>
+			<string>com.semaphore.Standard-Supply</string>
+		</array>
+	</dict>
+	<key>Android</key>
+	<dict>
+		<key>Root Class Names</key>
+		<array>
+			<string>com.semaphore.standardsupply</string>
+		</array>
+	</dict>
+	
+</dict>
+</plist>
+-----BEGIN SIGNATURE-----
+JaworeMBUAOvKvYziRWNOmNRkNxIIs0F9lgFSwKB8+qQSj04HKauI4Ea4CqUdpnP
+b0LcF4jBELnpJn5Bjk57cSP189IvwWVeGg6e0v4Z1SVgYc2cWF/Bc4NmsdvYLBcE
+Rh7sYSPUrn+7+cfYCkgYzXiH6NcJv2gYkf5KtLEVEB4y14qGT4uE7glKuwDGD6lU
+cuT8+TAhz5FwIsxTOHd+fuCERex9MTw2M9jxow9CAQ5myadbfRhLDI92Gr2x+uU/
+1h6MHDSEcxMHVmPPh7ozd/FrZTq0WMkshkVpGqKtXJSFtATCevaPX4dPwR4vvoZv
++HGyWlGEAaHcAAH34/qNv3BZVpylm1iiFo+Qwy+gq6Dv7lumX2RIC+WjMsCqK1w+
+3N8figwNVjb58bpoCB9LlGK9c9v1qvTgvkLPdB3uRKGBChkpgcLeWgq/E6bKP0Px
+HChjj9R1Bn9zwFheA0ZvOmcikwhMbiIXQ5lbWe36Z9/PyrFVpYQxoFpN4GzN1uwr
+OGNkE2rE6WLzBsAEWwQvjOQpGYtHtLvhj0+q5+Mi75b3DTkJitbzhDcbeYfULTAr
+SLoUivSF6LtVCLfPzd1TxUNOf1y2ScAo+3hJMsoKPwHCVB04AmIgUE7HhFG/qvqi
+IUQNbIaGrsz+tTPgSEmRl6REJAHfF0kfczTcXBCIJiQ=
+-----END SIGNATURE-----

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.0.1.aar/766f8957f3ac6eb617b678bc5d874c26/res/values-hi/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "195,252,303,469",
+                        "endColumns": "56,50,165,102",
+                        "endOffsets": "247,298,464,567"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "156,213,264,430",
+                        "endColumns": "56,50,165,102",
+                        "endOffsets": "208,259,425,528"
+                    }
+                },
+                {
+                    "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

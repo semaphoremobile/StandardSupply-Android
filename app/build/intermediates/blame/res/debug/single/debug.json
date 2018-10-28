@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_number_bg.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/number_bg.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_star_icn_active.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/star_icn_active.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ads_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-hdpi/ads_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_location.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_location.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_more_tab_pressed.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/more_tab_pressed.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_search_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/search_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_po.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_po.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_category_detail.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_category_detail.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_truck_selected.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_truck_selected.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_profile.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_change_password.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_list_selector_background_selected.9.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-xhdpi/list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_notifications.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/notifications.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_favorites_tab.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/favorites_tab.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_list_selector_background_selected.9.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-hdpi/list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_address_selected.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_address_selected.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_help_item.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_help_item.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_address_selector.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_address_selector.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_edit.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/edit.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_job.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_job.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_check_icn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/check_icn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_item.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_item.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_add_icn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/add_icn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_home_tab_pressed.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/home_tab_pressed.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_favorites.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_dropdown_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/dropdown_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_cart_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/cart_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_cart_item.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_cart_item.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_submit.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_submit.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_actionbar_color.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/actionbar_color.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_submit_cart.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_submit_cart.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_viewfinder_white.9.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/viewfinder_white.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_activated_background.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/activated_background.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_pickup_item_lst.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/pickup_item_lst.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_help.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_help.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_send_log.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/send_log.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-ldpi_ads_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-ldpi/ads_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_no_item_image.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/no_item_image.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/raw_zxing_beep.ogg.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.0.1.aar/766f8957f3ac6eb617b678bc5d874c26/res/raw/zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_categories.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_pickup_item_detail.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/pickup_item_detail.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_notif_message.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_notif_message.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fade_out.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fade_out.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_more_tab.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/more_tab.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_profile_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/profile_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_favorites_tab_pressed.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/favorites_tab_pressed.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_help.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_help.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_drawer_list_item.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_ads_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/ads_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_cart_tab.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/cart_tab.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_shopping_item.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_shopping_item.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_splash.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_next_icn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/next_icn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_favorites_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/favorites_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ads_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-xxhdpi/ads_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_catagories_list_items.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_catagories_list_items.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_category.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_category.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_scan_history.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_scan_history.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_help.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/help.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_spinner.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/spinner.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_scan_tab.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/scan_tab.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_adv.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_adv.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_list_selector_background_selected.9.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/list_selector_background_selected.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_item_detail.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_item_detail.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_cart.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_search_tab.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/search_tab.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_new_address.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_new_address.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_home_tab.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/home_tab.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_list_items.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_list_items.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_next.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_next.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_scan_tab_pressed.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/scan_tab_pressed.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_zxing_barcode_scanner.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.0.1.aar/766f8957f3ac6eb617b678bc5d874c26/res/layout/zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_ads_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/ads_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ads_img.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-xhdpi/ads_img.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_delete.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_star_icn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/star_icn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_icon128.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/icon128.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_add_item.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/add_item.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_add_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/add_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_enter_quantity.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_enter_quantity.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_list_address.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_list_address.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_address.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_address.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_viewfinder_green.9.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable/viewfinder_green.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_prep_cart.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_prep_cart.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_activity_scan.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/activity_scan.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_search_tab_pressed.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/search_tab_pressed.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_change_truck.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_change_truck.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_cart.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_cart.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_done.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_done.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_order_no.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_order_no.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_add_to_order.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_add_to_order.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_ss_large_logo.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/ss_large_logo.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_list_items_cat.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_list_items_cat.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_scan_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/scan_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_truck_btn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/truck_btn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fade_in.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fade_in.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_truck.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_truck.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/menu_menu_order.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/menu/menu_order.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_zxing_capture.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.0.1.aar/766f8957f3ac6eb617b678bc5d874c26/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_add_truck.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_add_truck.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_item_detail.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_item_detail.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_fragment_my_orders.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/fragment_my_orders.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/xml_global_tracker.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_activity_forgot_password.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_cart_tab_pressed.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/cart_tab_pressed.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_truck_icn.png.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/drawable-mdpi/truck_icn.png"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout_row_truck.xml.flat",
+        "source": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/src/main/res/layout/row_truck.xml"
+    },
+    {
+        "merged": "/Users/jsingh26/Code/Android/StandardSupply-Android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/jsingh26/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d2959376f007580ebcbe7d6fc1f4f511/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

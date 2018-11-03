@@ -62,7 +62,9 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 		if (getArguments().containsKey("item")) {
 			item = (Item) getArguments().getSerializable("item");
 			arrayList.add(item);
-			SSApplication.itemList.add(item);
+			// REQ: Allow any qty for pick up now orders
+			// SSApplication.itemList.add(item);
+			addOrUpdateItemQuantity(item);
 		}
 
 		txtJobNo = (EditText) v.findViewById(R.id.txtJobNo);
@@ -78,15 +80,51 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 		btnAddItem = (Button) v.findViewById(R.id.btnAddItem);
 		btnAddItem.setOnClickListener(addItemListener);
 
-
+		// REQ: Allow any qty for pick up now orders
+		/*
 		if(itemLists.size()>2){
 			btnAddItem.setVisibility(View.GONE);
-		}
+		}*/
+
 		btnSubmit = (Button) v.findViewById(R.id.btnSubmit);
 		btnSubmit.setOnClickListener(submitListener);
 
 		return v;
 	}
+
+	// REQ: Allow any qty for pick up now orders
+	// Find if the item is already present in the cache. If it is increment the quantity by 1
+	private void addOrUpdateItemQuantity(Item item){
+		for(Item citem : SSApplication.itemList){
+			if(citem.id == item.id) {
+				// Item already exists in the cache
+				// Increment the count
+				citem.shoppingQuantity ++;
+				return;
+			}
+		}
+
+		// If we have reached this part, this means the item is not already in the cache, so add the item
+        item.shoppingQuantity = 1;
+		SSApplication.itemList.add(item);
+	}
+
+	// REQ: Allow any qty for pick up now orders
+	// If the user updates the item quantity, call this method
+	private void updateItemQuantity(int position, int quantity){
+		Iterator<Item> iter = SSApplication.itemList.iterator();
+
+		Item cachedItem = SSApplication.itemList.get(position);
+		while (iter.hasNext()) {
+			Item itemVal = iter.next();
+			if (itemVal.getItemId().equalsIgnoreCase(
+					cachedItem.getItemId())) {
+				cachedItem.shoppingQuantity =  quantity;
+				return;
+			}
+		}
+	}
+
 
 	public void removeItem(int position) {
 
@@ -160,11 +198,14 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 
 			for (int i = 0; i < SSApplication.itemList.size(); i++) {
 				Log.e("LIST SIZE:: ", SSApplication.itemList.size() + "");
+				Item item = SSApplication.itemList.get(i);
 				CartItem cartItem = CartItem
-						.cartItemForItem(SSApplication.itemList.get(i));
+						.cartItemForItem(item);
 				Job job = new Job();
 				job.number = jNo;
-				job.quantity = 1;
+                // REQ: Allow any qty for pick up now orders
+				// job.quantity = 1;
+                job.quantity = item.shoppingQuantity;
 				Model.getInstance().defaultJobNo = "";
 				cartItem.job_numbers = new ArrayList<Job>();
 				cartItem.job_numbers.add(job);
@@ -244,6 +285,28 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 
 				}
 			});
+
+
+			// REQ: Allow any qty for pick up now orders
+			View etView = convertView
+					.findViewById(R.id.et_quantity);
+            Item currentItem = filteredCategories.get(position);
+			if(etView != null) {
+				final EditText et_quantity = (EditText) etView;
+				et_quantity.setText(Integer.toString(currentItem.shoppingQuantity));
+				et_quantity.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+					public void onFocusChange(View v, boolean hasFocus) {
+						// Assuming we have lost the focues, update the model
+						if(!hasFocus) {
+						    if(et_quantity.getText() != null && !et_quantity.getText().toString().equals("")) {
+                                int changedQuantity = Integer.parseInt(et_quantity.getText().toString());
+                                cdFragment.updateItemQuantity(position, changedQuantity);
+                            }
+						}
+					}
+				});
+			}
+
 
 			return convertView;
 		}

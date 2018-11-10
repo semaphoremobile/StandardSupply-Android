@@ -11,11 +11,6 @@
     android:paddingRight="20dp"
     tools:context=".HomeActivity" >
 
-    <LinearLayout
-        android:id="@+id/detailsId"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical" >
 
         <EditText
             android:id="@+id/txtJobNo"
@@ -26,6 +21,7 @@
 
         <EditText
             android:id="@+id/txtPONo"
+            android:layout_below="@+id/txtJobNo"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:hint="@string/po_no" >
@@ -33,6 +29,10 @@
 
         <ListView
             android:id="@+id/lstAddItems"
+            android:layout_below="@+id/txtPONo"
+            android:layout_above="@+id/btnSubmit"
+            android:scrollbars="vertical"
+            android:layout_gravity="fill_vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent" >
         </ListView>
@@ -43,7 +43,6 @@
             android:layout_height="35dp"
             android:layout_alignParentBottom="true"
             android:layout_marginBottom="20dp"
-            android:layout_weight="1"
             android:background="@color/ss_green"
             android:text="@string/add_additional_item" />
 
@@ -53,9 +52,8 @@
             android:layout_height="35dp"
             android:layout_above="@id/btnAddItem"
             android:layout_marginBottom="20dp"
-            android:layout_weight="1"
             android:background="@color/ss_green"
             android:text="@string/submit" />
-    </LinearLayout>
+
 
 </RelativeLayout>

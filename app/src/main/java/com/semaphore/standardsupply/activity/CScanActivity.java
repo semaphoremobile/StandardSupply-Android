@@ -16,11 +16,14 @@
 
 package com.semaphore.standardsupply.activity;
 
+import android.Manifest;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.hardware.Camera;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -51,6 +54,7 @@ public class CScanActivity extends SSActivity {
     private CompoundBarcodeView barcodeView;
     private String actionFrom = "";
     private String scanCustID = "";
+    private static final int MY_PERMISSIONS_REQUEST_CAMERA = 1001;
 
     //private TextView custidText;
 
@@ -168,7 +172,8 @@ public class CScanActivity extends SSActivity {
 
         barcodeView = (CompoundBarcodeView) findViewById(R.id.barcode_scanner);
         barcodeView.setStatusText("Waiting for QR code");
-        barcodeView.decodeContinuous(callback);
+        // initBatCodeView();
+        initBarcode();
 
         fadeIn = new AlphaAnimation(0.0f , 1.0f ) ;
         fadeOut = new AlphaAnimation( 1.0f , 0.0f ) ;
@@ -178,10 +183,43 @@ public class CScanActivity extends SSActivity {
         fadeOut.setDuration(1200);
         fadeOut.setFillAfter(true);
         fadeOut.setStartOffset(4200 + fadeIn.getStartOffset());
-
-
-
     }
+
+    private void initBatCodeView() {
+        barcodeView.decodeContinuous(callback);
+    }
+
+    private void initBarcode(){
+        if (ContextCompat.checkSelfPermission(this,
+                Manifest.permission.CAMERA)
+                != PackageManager.PERMISSION_GRANTED) {
+
+            ActivityCompat.requestPermissions(this,
+                    new String[]{Manifest.permission.CAMERA},
+                    MY_PERMISSIONS_REQUEST_CAMERA);
+            } else {
+            // Permission has already been granted
+            initBatCodeView();
+        }
+    }
+    @Override
+    public void onRequestPermissionsResult(int requestCode,
+                                           String permissions[], int[] grantResults) {
+        switch (requestCode) {
+            case MY_PERMISSIONS_REQUEST_CAMERA: {
+                // If request is cancelled, the result arrays are empty.
+                if (grantResults.length > 0
+                        && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                    // Permission was granted, so initialize the bar code
+                    initBatCodeView();
+                } else {
+                    // Permission was denied!!
+                }
+                return;
+            }
+        }
+    }
+
 
     Camera cam = null;
     public void turnOnFlashLight() {

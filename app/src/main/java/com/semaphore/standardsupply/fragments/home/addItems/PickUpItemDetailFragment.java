@@ -20,6 +20,7 @@ import android.widget.EditText;
 import android.widget.Filter;
 import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.semaphore.standardsupply.R;
@@ -47,7 +48,7 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 	Button btnSubmit;
 	ArrayList<Item> arrayList = new ArrayList<Item>();
 	PickupDetailAdapter adapter;
-
+	RelativeLayout progressLayout;
 
 	@Override
 	protected String getName() {
@@ -59,6 +60,8 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 			Bundle savedInstanceState) {
 		View v = inflater
 				.inflate(R.layout.pickup_item_detail, container, false);
+		progressLayout = (RelativeLayout) v.findViewById(R.id.progressBarLayout);
+		showHideProgressLayout(false);
 		if (getArguments().containsKey("item")) {
 			item = (Item) getArguments().getSerializable("item");
 			arrayList.add(item);
@@ -90,6 +93,15 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 		btnSubmit.setOnClickListener(submitListener);
 
 		return v;
+	}
+
+	private void showHideProgressLayout (boolean show) {
+		if (show){
+			progressLayout.setVisibility(View.VISIBLE);
+		}
+		else{
+			progressLayout.setVisibility(View.GONE);
+		}
 	}
 
 	// REQ: Allow any qty for pick up now orders
@@ -217,6 +229,7 @@ public class PickUpItemDetailFragment extends BaseFragment implements Observer {
 					(SSActivity) getActivity());
 			handler.cart = cart;
 			handler.request();
+			showHideProgressLayout(true);
 
 			SSApplication.itemList.clear();
 			SSApplication.jobNo = "";

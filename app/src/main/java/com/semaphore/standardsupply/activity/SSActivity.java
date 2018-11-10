@@ -35,4 +35,8 @@ public abstract class SSActivity extends Activity {
 //		super.onConfigurationChanged(newConfig);
 //
 //	}
+
+	public void OnHandlerCompleted(){
+
+	}
 }

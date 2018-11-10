@@ -42,10 +42,11 @@ public class LoginHandler extends Handler {
 		location.name = user.location_name;
 		Settings.putLocation(activity, location);
 		
-		
+		/*
 		Intent i = new Intent(activity,HomeActivity.class);
         activity.startActivity(i);
-        activity.finish();
+        activity.finish();*/
+		activity.OnHandlerCompleted();
 	}
 
 }

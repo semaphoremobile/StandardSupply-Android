@@ -22,6 +22,7 @@ import android.widget.EditText;
 import android.widget.Filter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.SearchView;
 import android.widget.TextView;
 
@@ -40,8 +41,8 @@ public class CategoriesFragment extends BaseFragment implements Observer , Searc
 	private SearchView mSearchView;
 	public ArrayList<ItemCategory> categoriesList = new ArrayList<ItemCategory>();
 	boolean checkSearch = false;
-	LinearLayout categorisesLinear;
-
+	RelativeLayout categorisesLinear;
+	RelativeLayout progressLayout;
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -49,7 +50,7 @@ public class CategoriesFragment extends BaseFragment implements Observer , Searc
 		/*View v = inflater.inflate(R.layout.fragment_catagories_list_items, container,
 				false);
 */
-		categorisesLinear = (LinearLayout) inflater.inflate(R.layout.fragment_catagories_list_items, container, false);
+		categorisesLinear = (RelativeLayout) inflater.inflate(R.layout.fragment_catagories_list_items, container, false);
 
 		lstCategories = (ListView) categorisesLinear.findViewById(R.id.catergories_list_items);
 		mSearchView = (SearchView) categorisesLinear.findViewById(R.id.search_view);
@@ -79,7 +80,19 @@ public class CategoriesFragment extends BaseFragment implements Observer , Searc
 			}
 		});
 */
+		progressLayout = (RelativeLayout) categorisesLinear.findViewById(R.id.progressBarLayout);
+		showHideProgressLayout(false);
+
 		return categorisesLinear;
+	}
+
+	private void showHideProgressLayout (boolean show) {
+		if (show){
+			progressLayout.setVisibility(View.VISIBLE);
+		}
+		else{
+			progressLayout.setVisibility(View.GONE);
+		}
 	}
 
 	@Override
@@ -116,6 +129,7 @@ public class CategoriesFragment extends BaseFragment implements Observer , Searc
 		Model.getInstance().getCategoriesCache().addObserver(this);
 		Log.d("catfrg", "calling 1");
 		//mSearchView.setQuery("",true);
+		showHideProgressLayout(true);
 		Model.getInstance().getCategoriesCache().request();
 		getActivity().getActionBar().setTitle("Categories");
 	}
@@ -146,6 +160,7 @@ public class CategoriesFragment extends BaseFragment implements Observer , Searc
 		// }
 		// SSApplication.itemCategoryList.addAll(Model.getInstance()
 		// .getCategoriesCache().items);
+		showHideProgressLayout(false);
 		Model.getInstance().getCategoriesCache().deleteObserver(this);
 		Log.d("CatFrag", "SSApplication.deleteObserver...."
 				+ Model.getInstance().getCategoriesCache().items.size());
